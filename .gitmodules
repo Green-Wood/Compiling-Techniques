@@ -1,0 +1,6 @@
+[submodule "LexicalAnalyzer"]
+	path = LexicalAnalyzer
+	url = https://github.com/Green-Wood/LexicalAnalyzer.git
+[submodule "SyntacticAnalyzer"]
+	path = SyntacticAnalyzer
+	url = https://github.com/Green-Wood/SyntacticAnalyzer.git
